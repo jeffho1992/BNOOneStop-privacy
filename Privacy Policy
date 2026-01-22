@@ -1,0 +1,300 @@
+# Privacy Policy for BNO One Stop
+
+**Last Updated:** January 2026
+
+## 1. Introduction
+
+BNO One Stop ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+
+Please read this Privacy Policy carefully. If you do not agree with our policies and practices, please do not use our App.
+
+## 2. Information We Collect
+
+### 2.1 Information You Provide Directly
+
+**Account Registration Information:**
+- Email address
+- Full name
+- Password (encrypted)
+- Authentication provider information (Google Sign-In, Email)
+
+**Personal Data for Immigration Tracking:**
+- Full name
+- Date of birth
+- Nationality
+- BNO visa entry date
+- Visa status information
+- Immigration timeline data
+- Absence records and calculations
+- Estimated ILR (Indefinite Leave to Remain) dates
+
+**Subscription Information:**
+- Subscription type (Monthly, Annual, Lifetime)
+- Subscription status
+- Purchase history
+- Payment information (processed by RevenueCat and Google Play Store)
+
+**Checklist and Document Data:**
+- Custom checklist items
+- Document templates and entries
+- Application forms and templates
+- Task completion status
+
+**Optional Information:**
+- Profile picture (if provided)
+- Additional notes and personal annotations
+
+### 2.2 Information Collected Automatically
+
+**Device Information:**
+- Device type and model
+- Operating system version
+- Unique device identifiers
+- Device IP address
+
+**Usage Information:**
+- Features accessed
+- Time and duration of app usage
+- Interactions with the app
+- Crash reports and error logs
+
+**Location Information:**
+- Coarse location (based on network)
+- Fine location (only if you grant permission)
+- Location is used to provide localized content and services
+
+**Analytics Data:**
+- App performance metrics
+- Feature usage statistics
+- User engagement data
+
+## 3. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+### 3.1 Core App Functionality
+- Creating and managing your user account
+- Providing immigration tracking and calculation services
+- Calculating ILR eligibility dates
+- Managing your absence records
+- Displaying your personal immigration timeline
+- Providing checklist and document management features
+
+### 3.2 Subscription and Payment
+- Processing subscription purchases
+- Managing subscription status
+- Providing premium features to subscribers
+- Billing and account management
+- Preventing fraud
+
+### 3.3 Communication
+- Sending account-related notifications
+- Subscription status updates
+- Service announcements
+- Password reset and account recovery
+
+### 3.4 Analytics and Improvement
+- Analyzing app usage patterns
+- Improving app features and performance
+- Troubleshooting technical issues
+- Personalizing user experience
+
+### 3.5 Legal and Security
+- Complying with legal obligations
+- Enforcing our Terms of Service
+- Protecting against fraud and abuse
+- Maintaining app security
+
+## 4. Data Storage and Security
+
+### 4.1 Data Storage
+- **Local Storage:** Personal data is stored locally on your device using encrypted Room database
+- **Cloud Storage:** Account information and subscription data are stored on AWS servers
+- **Backup:** Your data may be backed up to your device's backup service (Google Drive, iCloud)
+
+### 4.2 Security Measures
+- End-to-end encryption for sensitive data
+- Secure authentication using AWS Cognito
+- HTTPS/TLS encryption for data transmission
+- Regular security updates and patches
+- Access controls and authentication protocols
+
+### 4.3 Data Retention
+- Account data is retained as long as your account is active
+- After account deletion, personal data is deleted within 30 days
+- Backup data may persist according to your device's backup settings
+- We retain anonymized usage data for analytics purposes
+
+## 5. Third-Party Services
+
+### 5.1 AWS Amplify
+- Used for authentication and account management
+- Stores account credentials securely
+- AWS Privacy Policy: https://aws.amazon.com/privacy/
+
+### 5.2 RevenueCat
+- Manages subscriptions and in-app purchases
+- Processes subscription transactions
+- RevenueCat Privacy Policy: https://www.revenuecat.com/privacy
+
+### 5.3 Google Play Store
+- Processes app purchases and subscriptions
+- Handles payment information
+- Google Privacy Policy: https://policies.google.com/privacy
+
+### 5.4 Google Sign-In
+- Provides authentication option
+- Accesses basic profile information (email, name)
+- Google Privacy Policy: https://policies.google.com/privacy
+
+### 5.5 Google Mobile Ads
+- Displays ads to non-premium users
+- Collects advertising data
+- Google Ads Privacy Policy: https://policies.google.com/privacy
+
+### 5.6 Google Play Services
+- Provides core Android functionality
+- May collect device information
+- Google Privacy Policy: https://policies.google.com/privacy
+
+## 6. Data Sharing and Disclosure
+
+### 6.1 We Do NOT Share
+- We do not sell your personal data
+- We do not share your immigration data with third parties
+- We do not share your contact information for marketing
+
+### 6.2 We May Share
+- **Service Providers:** With third-party services listed above for app functionality
+- **Legal Requirements:** When required by law or legal process
+- **Protection:** To protect our rights, privacy, safety, or property
+- **Business Transfer:** In case of merger, acquisition, or bankruptcy
+
+### 6.3 Aggregated Data
+- We may share anonymized, aggregated data for analytics and research
+- This data cannot identify you personally
+
+## 7. Your Privacy Rights
+
+### 7.1 Access and Portability
+- You have the right to access your personal data
+- You can request a copy of your data in a portable format
+
+### 7.2 Correction and Update
+- You can update your account information anytime
+- You can modify your personal data through the app settings
+
+### 7.3 Deletion
+- You can request deletion of your account and associated data
+- We will delete your data within 30 days of request
+- Some data may be retained for legal or operational purposes
+
+### 7.4 Opt-Out
+- You can opt-out of non-essential communications
+- You can disable location services in your device settings
+- You can disable analytics in app settings
+
+### 7.5 Do Not Track
+- Our app respects Do Not Track signals where applicable
+- You can disable tracking through your device settings
+
+## 8. Children's Privacy
+
+The App is not intended for children under 13 years old. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will delete such information and terminate the child's account.
+
+For users between 13-18, parental consent may be required in certain jurisdictions.
+
+## 9. International Data Transfers
+
+Your information may be transferred to, stored in, and processed in countries other than your country of residence. These countries may have data protection laws that differ from your home country. By using the App, you consent to the transfer of your information to countries outside your country of residence.
+
+## 10. California Privacy Rights (CCPA)
+
+If you are a California resident, you have the following rights:
+
+- **Right to Know:** You can request what personal information we collect
+- **Right to Delete:** You can request deletion of your personal information
+- **Right to Opt-Out:** You can opt-out of the sale of your personal information
+- **Right to Non-Discrimination:** We will not discriminate against you for exercising your rights
+
+To exercise these rights, contact us at the address below.
+
+## 11. European Privacy Rights (GDPR)
+
+If you are in the European Union, you have the following rights:
+
+- **Right of Access:** Access your personal data
+- **Right to Rectification:** Correct inaccurate data
+- **Right to Erasure:** Request deletion of your data
+- **Right to Restrict Processing:** Limit how we use your data
+- **Right to Data Portability:** Receive your data in a portable format
+- **Right to Object:** Object to certain processing
+- **Right to Lodge a Complaint:** File a complaint with your local data protection authority
+
+Our legal basis for processing is:
+- Contractual necessity (providing the app service)
+- Your consent (for optional features)
+- Legal obligation (compliance with laws)
+- Legitimate interests (improving the app)
+
+## 12. Cookies and Tracking Technologies
+
+The App may use cookies and similar tracking technologies to:
+- Remember your preferences
+- Track usage patterns
+- Improve app performance
+- Deliver personalized content
+
+You can disable cookies through your device settings, though this may affect app functionality.
+
+## 13. Contact Us
+
+If you have questions about this Privacy Policy or our privacy practices, please contact us:
+
+**Email:** privacy@bnoonestop.com
+
+**Mailing Address:**
+BNO One Stop
+[Your Company Address]
+[City, Country, Postal Code]
+
+**Data Protection Officer:** [If applicable]
+[DPO Email]
+
+## 14. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Posting the new Privacy Policy in the App
+- Updating the "Last Updated" date
+- Sending you an email notification for material changes
+
+Your continued use of the App after changes constitutes your acceptance of the updated Privacy Policy.
+
+## 15. Additional Information
+
+### 15.1 Permissions Explained
+
+**Internet Permission:** Required to connect to our servers and process subscriptions
+
+**Network State Permission:** Required to check internet connectivity
+
+**Location Permissions:** Optional, used to provide localized content and services
+
+**Backup Permissions:** Used to back up your data to your device's backup service
+
+### 15.2 Data Processing Agreement
+
+For business users or organizations, we can provide a Data Processing Agreement (DPA) upon request.
+
+### 15.3 Compliance
+
+This Privacy Policy complies with:
+- GDPR (General Data Protection Regulation)
+- CCPA (California Consumer Privacy Act)
+- UK Data Protection Act 2018
+- Google Play Store Privacy Policy Requirements
+- Apple App Store Privacy Policy Requirements
+
+---
+
+**Acknowledgment:** By downloading and using the BNO One Stop app, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
